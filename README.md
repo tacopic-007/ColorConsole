@@ -24,3 +24,6 @@ red, green, yellow, blue, magenta, cyan, white のうちどれかを指定する
 red, green, yellow, blue, magenta, cyan, white以外に指定することはできないため、ご注意ください。  
   
 **その他バクなどの問い合わせは[https://twitter.com/tacopic007](https://twitter.com/tacopic007)のDMまでお願いします！**
+
+## 修正履歴
+2023/3/11 18:24 comit | elifのクソコード羅列だったので、直接objectを参照するように変更しました。
