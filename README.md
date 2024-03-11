@@ -8,6 +8,7 @@ red, green, yellow, blue, magenta, cyan, white のうちどれかを指定する
 ```console.log(setColor("red", "This is test text."));```  
 > [!TIP]
 > 例では文字列として色を指定していますが、`colorStyle.red`などでも指定することができます。
+
 > [!NOTE]
 > Node.js環境ではない場合は、  
 > ```import { setColor, colorStyle } from './ColorConsole.js';```  
