@@ -23,4 +23,4 @@ red, green, yellow, blue, magenta, cyan, white のうちどれかを指定する
 このエラーは、上記以外の色を指定した場合に発生します。  
 red, green, yellow, blue, magenta, cyan, white以外に指定することはできないため、ご注意ください。  
   
-**その他バクなどの問い合わせは(https://twitter.com/tacopic007)[https://twitter.com/tacopic007]のDMまでお願いします！**
+**その他バクなどの問い合わせは[https://twitter.com/tacopic007](https://twitter.com/tacopic007)のDMまでお願いします！**
